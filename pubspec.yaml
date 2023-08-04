@@ -1,0 +1,11 @@
+name: wfi
+description: A simple CLI that helps to install Flutter on Windows easily.
+version: 0.0.1
+repository: https://github.com/danielq1117/wfi
+
+environment:
+  sdk: ^3.0.6
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
